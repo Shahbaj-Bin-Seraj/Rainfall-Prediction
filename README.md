@@ -1,4 +1,11 @@
 # Rainfall-Prediction
+**Course Title:** Machine Learning Lab 
+
+**Course Code:** CSE-5211
+
+**Supervised By:**  **Md. Mynoddin**
+
+Assistant Processor, Department of CSE, Rangamati Science and Technology University.
 # Rainfall Prediction Using Machine Learning
 ## 1. Introduction
 
@@ -75,5 +82,3 @@ Class 1 ----------- 0.88 ------- 0.90 ------ 0.89 -------- 50
 
 ## 5. References
 [1] Dataset Source: [https://www.geeksforgeeks.org/rainfall-prediction-using-machine-learning-python/]
-
-[2] GeeksforGeeks Tutorial: [https://www.geeksforgeeks.org/rainfall-prediction-using-machine-learning-python/]
