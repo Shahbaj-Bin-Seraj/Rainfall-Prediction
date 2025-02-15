@@ -7,7 +7,7 @@
 
 **Supervised By:**  **Md. Mynoddin**
 
-Assistant Processor, Department of CSE, Rangamati Science and Technology University.
+Assistant Professor, Department of CSE, Rangamati Science and Technology University.
 # Rainfall Prediction Using Machine Learning
 ## 1. Introduction
 
