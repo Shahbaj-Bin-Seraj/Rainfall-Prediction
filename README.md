@@ -19,7 +19,7 @@ Assistant Processor, Department of CSE, Rangamati Science and Technology Univers
 
 ## 2. Methodology
 
-## 2.1 Data Overview
+### 2.1 Data Overview
 **Dataset Shape:** 366 rows, 12 columns.
 
 **Features:** Day, pressure, max temperature, temperature, min temperature, dew point, humidity, cloud, rainfall, sunshine, wind direction, wind speed.
